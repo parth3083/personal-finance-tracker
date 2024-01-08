@@ -1,0 +1,7 @@
+D:\Code\.NET\Project\Personal Financial Tracker\Personal Financial Tracker\bin\Debug\Personal Financial Tracker.exe.config
+D:\Code\.NET\Project\Personal Financial Tracker\Personal Financial Tracker\bin\Debug\Personal Financial Tracker.exe
+D:\Code\.NET\Project\Personal Financial Tracker\Personal Financial Tracker\bin\Debug\Personal Financial Tracker.pdb
+D:\Code\.NET\Project\Personal Financial Tracker\Personal Financial Tracker\obj\Debug\Personal Financial Tracker.csproj.AssemblyReference.cache
+D:\Code\.NET\Project\Personal Financial Tracker\Personal Financial Tracker\obj\Debug\Personal Financial Tracker.csproj.CoreCompileInputs.cache
+D:\Code\.NET\Project\Personal Financial Tracker\Personal Financial Tracker\obj\Debug\Personal Financial Tracker.exe
+D:\Code\.NET\Project\Personal Financial Tracker\Personal Financial Tracker\obj\Debug\Personal Financial Tracker.pdb
